@@ -2,6 +2,27 @@
 
 This guide is published by Northleaf Studio, which also operates [ProxyVendors](https://proxyvendors.com/), a directory for comparing providers by task, session, location, and cost. It is first-party background material, not an unaffiliated third-party review of that site or of any vendor. Product labels change, and two official pages from the same vendor can disagree. Use this as a map of the terms, then confirm details on the provider's current documentation.
 
+## Languages
+
+- **English**
+- [简体中文](../zh-cn/guides/proxy-types.md)
+- [Español](../es/guides/proxy-types.md)
+- [Deutsch](../de/guides/proxy-types.md)
+- [Français](../fr/guides/proxy-types.md)
+- [日本語](../ja/guides/proxy-types.md)
+- [Português](../pt/guides/proxy-types.md)
+- [한국어](../ko/guides/proxy-types.md)
+- [اردو](../ur/guides/proxy-types.md)
+- [Bahasa Indonesia](../id/guides/proxy-types.md)
+- [Türkçe](../tr/guides/proxy-types.md)
+- [العربية](../ar/guides/proxy-types.md)
+- [Polski](../pl/guides/proxy-types.md)
+- [Italiano](../it/guides/proxy-types.md)
+- [ไทย](../th/guides/proxy-types.md)
+- [Українська](../uk/guides/proxy-types.md)
+- [Tiếng Việt](../vi/guides/proxy-types.md)
+- [Русский](../ru/guides/proxy-types.md)
+
 ## Three different questions
 
 People often collapse three questions into one word, "proxy":

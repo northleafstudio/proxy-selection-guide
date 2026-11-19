@@ -2,6 +2,27 @@
 
 This repository collects a short set of evergreen notes on proxy IP types, connection methods, and a practical buying checklist. It is published by **Northleaf Studio**, which also operates [ProxyVendors](https://proxyvendors.com/), a directory and comparison site for proxy providers.
 
+## Languages
+
+- **English**
+- [简体中文](zh-cn/README.md)
+- [Español](es/README.md)
+- [Deutsch](de/README.md)
+- [Français](fr/README.md)
+- [日本語](ja/README.md)
+- [Português](pt/README.md)
+- [한국어](ko/README.md)
+- [اردو](ur/README.md)
+- [Bahasa Indonesia](id/README.md)
+- [Türkçe](tr/README.md)
+- [العربية](ar/README.md)
+- [Polski](pl/README.md)
+- [Italiano](it/README.md)
+- [ไทย](th/README.md)
+- [Українська](uk/README.md)
+- [Tiếng Việt](vi/README.md)
+- [Русский](ru/README.md)
+
 These notes are first-party companion material. They are not an unaffiliated third-party review, and they are not an independent endorsement of any vendor. Where a point comes from a provider's documentation, treat that vendor's current page as the source of truth. Plan pages and help articles can disagree with each other, and both can change.
 
 ## What this repository is for
@@ -18,7 +39,7 @@ The notes restate a few distinctions already explained on ProxyVendors: a networ
 These public pages go into more detail than the notes here:
 
 - [ASN and ASN targeting](https://proxyvendors.com/glossary/asn) — an ASN names a routing operator, not a country or an IP type.
-- [HTTP CONNECT tunnel](https://proxyvendors.com/glossary/http-connect) — how an HTTP proxy reaches an HTTPS site, and why a 407 comes from the proxy.
+- [HTTP CONNECT tunnel](https://proxyvendors.com/glossary/http-connect) — how an HTTP proxy reaches an HTTPS site, and why a 407 means the proxy requires authentication or did not accept it.
 - [SOCKS5 proxy protocol](https://proxyvendors.com/glossary/socks5) — a connection method that relays bytes; it is not a class of exit IP.
 - [Exit IP check](https://proxyvendors.com/ip-check) — inspect the public IP, organisation, and ASN you received, with optional DNS and WebRTC checks.
 

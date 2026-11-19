@@ -2,6 +2,27 @@
 
 This checklist is published by Northleaf Studio, which also operates [ProxyVendors](https://proxyvendors.com/). It is first-party companion material, not an unaffiliated third-party recommendation. Use it against the vendor's current pricing page, terms, and a small trial. It does not guarantee that a plan will work for your target.
 
+## Languages
+
+- **English**
+- [简体中文](../zh-cn/guides/buying-checklist.md)
+- [Español](../es/guides/buying-checklist.md)
+- [Deutsch](../de/guides/buying-checklist.md)
+- [Français](../fr/guides/buying-checklist.md)
+- [日本語](../ja/guides/buying-checklist.md)
+- [Português](../pt/guides/buying-checklist.md)
+- [한국어](../ko/guides/buying-checklist.md)
+- [اردو](../ur/guides/buying-checklist.md)
+- [Bahasa Indonesia](../id/guides/buying-checklist.md)
+- [Türkçe](../tr/guides/buying-checklist.md)
+- [العربية](../ar/guides/buying-checklist.md)
+- [Polski](../pl/guides/buying-checklist.md)
+- [Italiano](../it/guides/buying-checklist.md)
+- [ไทย](../th/guides/buying-checklist.md)
+- [Українська](../uk/guides/buying-checklist.md)
+- [Tiếng Việt](../vi/guides/buying-checklist.md)
+- [Русский](../ru/guides/buying-checklist.md)
+
 ## 1. State the task, then pick the network
 
 Write down what you need the exit to do: a long-lived login, geo-specific public data, high-volume requests, or a mobile-carrier test. Match that to a network type, as described in the [proxy types guide](./proxy-types.md): residential, datacenter, ISP, or mobile. If the vendor's homepage and pricing page advertise different starting prices or country counts, record both and ask which figure applies to the exact tier you would buy.
@@ -12,7 +33,7 @@ Decide whether you need the same exit for minutes, hours, or a full rental term,
 
 ## 3. Confirm protocols and authentication
 
-HTTP, including [HTTP CONNECT](https://proxyvendors.com/glossary/http-connect) for HTTPS sites, is not the same as [SOCKS5](https://proxyvendors.com/glossary/socks5). Some residential products support HTTP and HTTPS only. If you need SOCKS5, or UDP through SOCKS5, check that both the product and your client support it. Confirm the entry host, port, and authentication method: username and password, an IP allowlist, or both. A 407 response during CONNECT comes from the proxy. It means the proxy did not accept the credentials, the tunnel was not built, and the target site never saw the request.
+HTTP, including [HTTP CONNECT](https://proxyvendors.com/glossary/http-connect) for HTTPS sites, is not the same as [SOCKS5](https://proxyvendors.com/glossary/socks5). Some residential products support HTTP and HTTPS only. If you need SOCKS5, or UDP through SOCKS5, check that both the product and your client support it. Confirm the entry host, port, and authentication method: username and password, an IP allowlist, or both. A 407 response during CONNECT comes from the proxy. The status means Proxy Authentication Required: the proxy requires authentication, or it did not accept the authentication it received. The tunnel was not built, and the target site never saw the request.
 
 ## 4. Add up the real cost
 
